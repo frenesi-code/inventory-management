@@ -1,0 +1,40 @@
+body {
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+form {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+table {
+    width: 100%;
+    padding: 20px;
+}
+
+.custom-container {
+    border: solid 1px lightgrey;    
+    width: 90%;
+    margin: 20px auto;
+}
+
+.right {
+    float: right;
+}
+
+.custom-height {
+    height: 150px;
+}
+
+.iconify {
+    cursor: pointer;                    
+}
+
+td:nth-child(n+5) { 
+    width: 10px;
+}
+
+tr:nth-child(1) {                         
+    font-weight: 600;   
+}

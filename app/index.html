@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 05</title>    
+    
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan+2:400,600,700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+</head>
+
+<body onload="main();">
+    <div class="custom-container">
+        <div class="row custom-height">
+            <form>
+                <div class="row">
+                    <div class="two columns">
+                        <label for="SKUInput">SKU</label>
+                        <input class="u-full-width" type="number" placeholder="" required id="SKUInput">
+                    </div>
+                    <div class="five columns">
+                        <label for="ProductNameInput">Product Name</label>
+                        <input class="u-full-width" type="text" placeholder="" required id="ProductNameInput">
+                    </div>
+                    <div class="two columns">
+                        <label for="ProductQuantityInput">Quantity</label>
+                        <input class="u-full-width" type="number" placeholder="" required id="ProductQuantityInput">
+                    </div>
+                    <div class="three columns">
+                        <label for="ProductPriceInput">Price</label>
+                        <input class="u-full-width" type="number" placeholder="" required id="ProductPriceInput">
+                    </div>                    
+                </div>
+                <div class="row right">
+                    <input class="button-primary" type="submit" onclick="add();" value="Add">
+                </div>    
+            </form>
+        </div>
+        <div class="row">
+            <table id="table"></table>
+        </div>
+    </div>
+
+    <script src="js/inventory-management.js"></script>
+    <script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
+</body>
+
+</html>
