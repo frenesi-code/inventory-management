@@ -13,7 +13,7 @@ Open the index.html file in a web browser
 
 ## Application Image Reference
 
-![Application Interface](https://www.dropbox.com/s/okikxhquqw7l7yq/inventory-management.png?dl=0)
+![Application Interface](https://uc99a31ed5437ebe377541b1dde0.previews.dropboxusercontent.com/p/thumb/AAzijCdZbXvajQ2PZH9s6Af007fWXG6WBJHftEqf4n1O9wjyxqF_rMAMFdhyBaOV4pu0I5p_IomGjvEBCDEfuslwtYCsbUJf0gKzAlyaWeaCM4GRKvgLPe-vym40PMN5VwTLdoC20_zeHVNNVGLL5pY8iXdsnMzRj3AnSW0g_xuec5UgJbD4AFYu52bmwR52x_DH1GmmINIf2cni0EDu6dl94dLQxKNfHFiqHaJiNobAdcEl-Ojv_RA1gyTUYMPToCQNtr28PqDIdRICFA9j8PJx8UoeMmqHS1JKOmIj0IztG5Bd0gJfMPHXjK35-Ao2-vREuLJD8P3yWZX25cnUWWJRG4bZaKeEKqzKYqvw3s1FomVyf11BAjq1puSTX2e88SA/p.png?fv_content=true&size_mode=5)
 
 ## Author
 
